@@ -1,6 +1,7 @@
 # Linux Dashboard
 
 <h3 align="center">Simple linux commands aggregator</h3>
+
 ## Overview
 
 A simple Linux script that use common linux resources aimed to help monitor resources from terminal (can also be used via <code>SSH</code>)
