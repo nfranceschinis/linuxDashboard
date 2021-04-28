@@ -1,4 +1,4 @@
-# Linux Dashboard
+<h1 align="center"> Linux Dashboard </h1>
 
 <h3 align="center">Simple linux commands aggregator</h3>
 
