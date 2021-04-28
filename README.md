@@ -28,4 +28,8 @@ A simple Linux script that use common linux resources aimed to help monitor reso
 
 5. Stop dashboard with:
 
-<code>ctrl+C</code>
+<code>ctrl</code> + <code>C</code>
+
+## Soon...
+
+Integration with <code>ncurses</code> for a better rappresentation
