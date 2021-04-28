@@ -9,19 +9,11 @@ A simple Linux script that use common linux resources aimed to help monitor reso
 
 ## How to use
 
-1. Clone the directory directly in your system:
-'''
-git clone 
-'''
-2. Enter in copied directory
-'''
-cd linuxDashboard
-'''
-3. Make script executable
-'''
-sudo chmod +x dashboard.sh
-'''
-4. Run Dashboard
-'''
-./dashboard.sh
-'''
+1. Clone the directory directly in your system:\n
+<code>git clone</code> 
+2. Enter in copied directory:\n
+<code>cd linuxDashboard</code>
+3. Make script executable:\n
+<code>sudo chmod +x dashboard.sh</code>
+4. Run Dashboard:\n
+<code>./dashboard.sh</code>
