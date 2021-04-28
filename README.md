@@ -25,3 +25,7 @@ A simple Linux script that use common linux resources aimed to help monitor reso
 4. Run Dashboard:
 
 <code>./dashboard.sh</code>
+
+5. Stop dashboard with:
+
+<code>ctrl+C</code>
